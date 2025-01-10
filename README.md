@@ -6,3 +6,8 @@ Will update this section once the exercise is over. Hopefully by the end of it, 
 
 1. Comfortable writing HTML on the go.
 2. Styling HTML pages using CSS, and styling it well. The latter might just be a tad hard for me.
+
+Edit 1:
+
+1. Added three recipes (all taken from allrecipes)
+2. Published it on github pages
