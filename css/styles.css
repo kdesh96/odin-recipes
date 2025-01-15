@@ -1,0 +1,80 @@
+
+* {
+    background-color: #EFE3C2;
+    color: black;
+    text-align: center;
+    font-family: 'Times New Roman';
+}
+
+a {
+    text-decoration: none;
+}
+
+img#cover {
+ height: 200px;
+ width: 100%;
+ object-fit: cover;
+ margin: 0px 0px 0px 0px;
+ padding: 0%;
+ border:0%;
+ display: block;
+ align-content: flex-end;
+
+}
+
+a h1#header {
+    background-color: #123524;
+    margin: 0px 0px 0px 0px;
+    padding: 0%;
+    border: 0;
+    display: flex;
+    height: 150px;
+    align-items: center;
+    justify-content: center;
+    font-size: 48px;
+    text-decoration: none;
+    color: #EFE3C2;
+}
+
+.recipe-class {
+    display: inline-block;
+    justify-content: space-between;
+}
+.recipe-class table {
+    display: inline-block;
+    justify-content: space-evenly;
+    font-size: 24px;
+
+}
+
+
+/* #recipe-list li{
+    display: inline-block;
+    margin-left: 25vw;
+} */
+
+.describe-dish {
+    margin-left: 25vw;
+    margin-right: 25vw;
+    color: black;
+    display: flex;
+    text-align:left;
+    align-items:start;
+    justify-content:space-between;
+    font-size: 18px;
+}
+
+.list-header {
+    text-align: left;
+    margin-left: 25vw;
+    margin-right: 25vw;
+}
+
+.list-class li {
+    display: block;
+    margin-left: 25vw;
+    margin-right: 25vw;
+    text-align: left;
+    list-style-type:initial;
+    
+}
